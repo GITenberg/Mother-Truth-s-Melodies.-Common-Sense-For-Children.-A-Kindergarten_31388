@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35190'
     url: http://www.gutenberg.org/2009/agents/35190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31388#Mother-Truth-s-Melodies.-Common-Sense-For-Children.-A-Kindergarten
 gutenberg_issued: '2010-02-25'
 gutenberg_type: Text
 identifiers:
